@@ -1,4 +1,4 @@
-# Rainfall Prediction for Kerala
+# Rainfall Prediction
 
 ## Overview
 This project focuses on predicting rainfall in Kerala using machine learning techniques. Kerala is a state in India where agriculture, water resources, and daily life are strongly influenced by seasonal rainfall patterns. Accurate rainfall forecasting is essential for planning agricultural activities, managing water resources, and preparing for climate-related risks. This project analyzes historical weather data and uses predictive models to estimate rainfall patterns based on relevant meteorological features.
